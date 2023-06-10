@@ -112,7 +112,7 @@ h1 {
   background-color: #006d72;
 }
 
-.movie_area {
+#movie_area {
   margin-left: 200px;
   display: flex;
   flex-wrap: wrap;
